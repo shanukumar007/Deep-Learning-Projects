@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>21.jpg</filename>
+	<path>D:\Notebooks\xyz\Deep-Learning-Projects\Face Mask Detection - Object Detection\images\21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>204</ymin>
+			<xmax>311</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>482</xmin>
+			<ymin>194</ymin>
+			<xmax>540</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>
